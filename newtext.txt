@@ -1,1 +1,2 @@
 hi this is new text
+trying to do new conflict
