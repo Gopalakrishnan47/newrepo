@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hi this is first text
+hi this is third text
 =======
 hi this is new text
 trying to do new conflict
