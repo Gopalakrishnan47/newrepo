@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi this is second text
+=======
+hi this is new text
+trying to do new conflict
+>>>>>>> 93e094e35f36e7309ded6e1c8ac76309a9aea6e5
